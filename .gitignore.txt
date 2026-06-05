@@ -1,0 +1,31 @@
+# C++ Builder build outputs
+Win32/
+Win64/
+Debug/
+Release/
+__history/
+
+# Compiled/intermediate files
+*.obj
+*.tds
+*.dcu
+*.map
+*.stat
+*.local
+*.identcache
+*.tvsconfig
+*.dsk
+*.~*
+
+# Executables and libraries
+*.exe
+*.dll
+*.bpl
+*.lib
+*.ilk
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
